@@ -1,0 +1,10 @@
+---
+title: "About Us"
+format: html
+---
+
+# About Us
+
+The Triangle Bengali Association was founded to promote Bengali culture, literature, and heritage in the local community.
+
+We welcome members from all backgrounds interested in Bengali traditions.

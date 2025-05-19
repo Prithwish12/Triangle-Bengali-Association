@@ -1,0 +1,12 @@
+---
+title: "Contact Us"
+format: html
+---
+
+# Contact Us
+
+📧 Email: triangle.bengali@gmail.com  
+📍 Location: Triangle Area, North Carolina
+
+Follow us on social media:
+- Facebook: [Triangle Bengali Association](https://facebook.com/trianglebengali)

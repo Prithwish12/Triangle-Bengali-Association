@@ -1,0 +1,13 @@
+---
+title: "Events"
+format: html
+---
+
+# Events
+
+We host several annual events:
+
+- **Poila Boishakh**: Bengali New Year Celebration
+- **Durga Puja**: Annual festival
+- **Saraswati Puja**: Celebration of knowledge and learning
+- **Cultural Programs**: Music, dance, drama, and more
